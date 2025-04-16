@@ -19,3 +19,4 @@ Here is a list of the circuit components you’ll be using from the Wokwi librar
 - Resistor
 - Slide switch
 
+![image](https://github.com/user-attachments/assets/f1acd0c0-c6b2-447f-a30f-01bb4c7b4a7e)
